@@ -8,7 +8,7 @@ Power BI dashboard for sales performance, profitability, customer, operations, a
 An interactive Power BI dashboard designed to analyze sales performance,
 profitability, customer behavior, shipping efficiency, and discount scenarios.
 
-![Dashboard Preview](screenshots/executive-overview.png)
+![Dashboard Preview](Sales_Performance_Analytics/04_Screenshots/Executive%20Overview.png)
 
 ##  Business Problem
 
@@ -39,23 +39,23 @@ profitability issues, customer value, operational delays, and discount impacts.
 
 ### Executive Overview
 
-![Executive Overview](screenshots/executive-overview.png)
+Sales_Performance_Analytics/04_Screenshots/Executive%20Overview.png
 
 ### Profitability Deep-Dive
 
-![Profitability](screenshots/profitability-deep-dive.png)
+Sales_Performance_Analytics/04_Screenshots/Profitability.png
 
 ### Customer Analysis
 
-![Customer Analysis](screenshots/customer-analysis.png)
+Sales_Performance_Analytics/04_Screenshots/Customer%20Analysis.png
 
 ### Operations
 
-![Operations](screenshots/operations.png)
+Sales_Performance_Analytics/04_Screenshots/Operation.png
 
 ### What-If Simulator
 
-![What-If](screenshots/what-if-simulator.png)
+Sales_Performance_Analytics/04_Screenshots/What-If%20Simulator.png
 
 ##  Key Insights
 
