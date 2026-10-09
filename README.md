@@ -35,27 +35,37 @@ profitability issues, customer value, operational delays, and discount impacts.
 - Data Visualization
 - Excel
 
-##  Dashboard Pages
+## Dashboard Pages
 
-### Executive Overview
+### 1. Executive Overview
 
-Sales_Performance_Analytics/04_Screenshots/Executive%20Overview.png
+[**Click here to view Executive Overview**](Sales_Performance_Analytics/04_Screenshots/Executive%20Overview.png)
 
-### Profitability Deep-Dive
+[![Executive Overview](Sales_Performance_Analytics/04_Screenshots/Executive%20Overview.png)](Sales_Performance_Analytics/04_Screenshots/Executive%20Overview.png)
 
-Sales_Performance_Analytics/04_Screenshots/Profitability.png
+### 2. Profitability Deep-Dive
 
-### Customer Analysis
+[**Click here to view Profitability Dashboard**](Sales_Performance_Analytics/04_Screenshots/Profitability.png)
 
-Sales_Performance_Analytics/04_Screenshots/Customer%20Analysis.png
+[![Profitability](Sales_Performance_Analytics/04_Screenshots/Profitability.png)](Sales_Performance_Analytics/04_Screenshots/Profitability.png)
 
-### Operations
+### 3. Customer Analysis
 
-Sales_Performance_Analytics/04_Screenshots/Operation.png
+[**Click here to view Customer Analysis Dashboard**](Sales_Performance_Analytics/04_Screenshots/Customer%20Analysis.png)
 
-### What-If Simulator
+[![Customer Analysis](Sales_Performance_Analytics/04_Screenshots/Customer%20Analysis.png)](Sales_Performance_Analytics/04_Screenshots/Customer%20Analysis.png)
 
-Sales_Performance_Analytics/04_Screenshots/What-If%20Simulator.png
+### 4. Operations
+
+[**Click here to view Operations Dashboard**](Sales_Performance_Analytics/04_Screenshots/Operation.png)
+
+[![Operations](Sales_Performance_Analytics/04_Screenshots/Operation.png)](Sales_Performance_Analytics/04_Screenshots/Operation.png)
+
+### 5. What-If Simulator
+
+[**Click here to view What-If Simulator Dashboard**](Sales_Performance_Analytics/04_Screenshots/What-If%20Simulator.png)
+
+[![What-If Simulator](Sales_Performance_Analytics/04_Screenshots/What-If%20Simulator.png)](Sales_Performance_Analytics/04_Screenshots/What-If%20Simulator.png)
 
 ##  Key Insights
 
